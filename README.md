@@ -1,14 +1,6 @@
 # Multiple Linear Regression on Bike sharing service
 > The idea from the project is to understand the factors affecting the demand for these shared bikes in the American market
 
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-
 ## General Information
 - We will do a multiple linear regression on the dataset provided to understand independent variables which affect demand of shared bikes
 - A US bike sharing company called BoomBikes had a dip in their revenue during the covid. So they have contracted a consulting company to understand the factors on which the demand for these shared bikes depends.
